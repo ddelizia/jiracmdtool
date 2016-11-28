@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Danilo Delizia",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ddelizia/jiracmdtool"
+  },
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.4.6",
