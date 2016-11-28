@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+var settings = require('../package.json');
+require("../index.js")(settings.version, process.argv);
